@@ -1,0 +1,17 @@
+/**/node_modules/
+!/javascriptsource/**/node_modules/
+/*.launch
+/.classpath
+/.mendix-cache/
+/.project
+/deployment/
+/javasource/*/proxies/
+/javasource/system/
+/modeler-merge-marker
+/nativemobile/builds
+/packages/
+/project-settings.user.json
+/releases/
+*.mpr.lock
+*.mpr.bak
+/vendorlib/temp/
