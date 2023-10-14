@@ -15,3 +15,6 @@
 *.mpr.lock
 *.mpr.bak
 /vendorlib/temp/
+/idesam filling out forms.mpr.bak
+/idesam filling out forms.mpr.lock
+/nativemobile/builds/
